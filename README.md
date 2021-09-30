@@ -1,7 +1,7 @@
 # Covid-App
 Open Repository for people to showcase Covid Based apps
 
-## How to Contribute
+# How to Contribute
 
 * Fork this repository.
 * Clone this repository from your github page
